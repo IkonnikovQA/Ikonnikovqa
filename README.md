@@ -20,7 +20,7 @@
 
 ## 🐊 Тестовые проекты
 
-- [Web tests]()
+- [Web tests](https://github.com/IkonnikovQA/allure-jenkins)
 - [API tests]()
 
 ## 🛠️ Технологии, которыми владею
