@@ -22,6 +22,7 @@
 
 - [Web tests](https://github.com/IkonnikovQA/allure-jenkins)
 - [API tests]()
+- [fakeStoreApiUi](https://github.com/IkonnikovQA/fakeStoreApi)
 
 ## 🛠️ Технологии, которыми владею
 
